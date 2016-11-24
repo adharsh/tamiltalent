@@ -1,0 +1,11 @@
+
+
+div.invisible{
+	filter:alpha(opacity=50); opacity:0.0;	
+}
+
+div.center { 
+	margin: auto; 
+	max-width: 300px;
+}
+
